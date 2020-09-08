@@ -1,2 +1,2 @@
 # URM-Building-Classification
-Using deep learning to classify URM building types.
+We will upload the code and data set utilized to classify finished URM, unfinished URM, and non-URM type buildings.
